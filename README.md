@@ -9,11 +9,11 @@
 Frontend, домен:
 
 ```
-https://frontend.nomoredomainswork.ru
+https://frontend.g28xyz.nomoredomainswork.ru
 ```
 
 Backend, домен:
 
 ```
-https://api.nomoredomainswork.ru
+https://api.g28xyz.nomoredomainswork.ru
 ```
